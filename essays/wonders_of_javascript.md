@@ -8,7 +8,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui medium left square floated image" src="../images/javascript.jpg">
+<img class="ui large left circular floated image" src="../images/javascript.jpg">
 
 ## My Impression of Javascript
 
