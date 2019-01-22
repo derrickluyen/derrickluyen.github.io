@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: The Wonders of Javascript
-date: 2019-01-16
+title: Why smart questions are important
+date: 2019-01-22
 labels:
   - Software Engineering
-  - Javascript
+  - Smart Questions
 ---
 
 <img class="ui medium left circular floated image" src="../images/js.jpg">
