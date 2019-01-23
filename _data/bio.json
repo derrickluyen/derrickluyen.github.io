@@ -97,6 +97,40 @@
     
   ],
   "awards": [
-    
+    {
+      "type": "scholarship",
+      "title": "Foundation Scholarship Honoring Eyvinne & Kay Lee",
+      "date": "5/14/2017",
+      "awarder": "Eyvinne & Kay Lee",
+      "summary": "Given through McKinley Foundation. $4000"
+    },
+    {
+      "type": "scholarship",
+      "title": "Hawaii B Plus State Scholarship",
+      "date": "2017-Present",
+      "awarder": "",
+      "summary": "Given through McKinley Foundation. $4000"
+    },
+    {
+      "type": "scholarship",
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2017-Present",
+      "awarder": "UH Manoa",
+      "summary": "Given to students who maintain a 3.5+ GPA. $2000/yr"
+    },
+    {
+      "type": "scholarship",
+      "title": "EAH Housing Scholarship",
+      "date": "2018-Present",
+      "awarder": "EAH Housing",
+      "summary": "$2500"
+    },
+    {
+      "type": "scholarship",
+      "title": "Hannah Cochrane College Scholarship",
+      "date": "2018",
+      "awarder": "Larissa Kick",
+      "summary": "Given through Palama Settlement. $1500"
+    },
   ]
 }
