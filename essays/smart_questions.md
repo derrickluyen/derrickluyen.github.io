@@ -29,4 +29,4 @@ The responses given to this question also show that it is not a smart question. 
 
 ## Final Insight about Smart Questions
 
-
+After reading Mr. Raymond's essay on how to ask smart questions and doing research on my own, I have definitely learned a lot about smart questions in terms of how to ask them as well as how to differentiate between smart questions and questions that are not smart. I learned that in order to ask smart questions, you must be clear and concise about what you want to ask and make sure you do not specifically ask for the answer but rather ask for guidance to help you find the answer. I also learned how to avoid not smart questions by making sure I specify exactly what it is that I need answered as well as making the question not too general but not too specific as well. All these things that I learned will help me become a person who asks smart questions as well as someone who can give smart responses when I am on the other side of the Q&A.
