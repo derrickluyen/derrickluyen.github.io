@@ -36,6 +36,22 @@
         "Java",
         "Javascript"
       ]
+    },
+    {
+      "name": "game development",
+      "keywords": [
+        "sports games",
+        "GUI",
+        "Java"
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+        "machine learning",
+        "AI",
+        "natural language processing"
+      ]
     }
   ],
   "skills": [
@@ -57,7 +73,7 @@
       "studyType": "B.S.",
       "startDate": "2017-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.89",
       "courses": [
       ]
     }
@@ -66,7 +82,7 @@
     {
       "company": "Devens, Nakano, Saito, Lee, Wong & Ching",
       "position": "Clerk",
-      "website": "",
+      "website": "http://www.dnslwc.com/",
       "startDate": "2017-06 & 2017-12",
       "endDate": "2017-08 & 2018-01",
       "summary": "Clerk",
@@ -82,7 +98,5 @@
   ],
   "awards": [
     
-  ],
-  "references": [
   ]
 }
