@@ -12,8 +12,8 @@ labels:
 summary: I competed in the Oahu Math League for 4 years as a student at McKinley High School on the Math Team.
 ---
 
-<img class="ui small left floated image" src="../images/mckinley.jpg">
-<img class="ui small right floated image" src="../images/math.png">
+<img class="ui medium left floated image" src="../images/mckinley.jpg">
+<img class="ui medium right floated image" src="../images/math.png">
 
 Math Team was basically a team where we competed against other schools in the Oahu Math League. There were two sides: JV and Varsity. JV consists of 9th and 10th graders while Varsity consisted of 11th and 12th graders for the most part. In this league, we have a total of seven meets throughout the school year in order to see which school has the best Math Team. Over the course of the four years that I competed in (2013-2017), our school's team placed 3rd in JV in 2013-2014, 2nd in JV in 2014-2015, 3rd in Varsity in 2015-2016, and 3rd in Varsity in 2016-2017. 
 
