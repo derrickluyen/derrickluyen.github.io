@@ -4,7 +4,6 @@ type: project
 image: images/vacay-square.png
 title: Vacay
 permalink: projects/vacay
-# All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
   - Javascript
