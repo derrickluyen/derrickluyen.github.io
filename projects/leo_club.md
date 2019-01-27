@@ -11,7 +11,7 @@ labels:
 summary: My experience in a volunteering club in my high school years.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/lions.jpg">
+<img class="ui floated image" src="{{ site.baseurl }}/images/lions.jpg">
 
 During my years in high school, I spent three of them volunteering as a part of a club called LEO Club. It stands for Leadership, Experience, and Opportunity Club. In this club, we volunteered for a number of different events such as monthly beach clean ups, various festivals, and marathons as well. 
 
