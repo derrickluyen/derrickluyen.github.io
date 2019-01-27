@@ -11,7 +11,7 @@ labels:
 summary: A Tic-Tac-Toe game that I developed for my senior project in high school.
 ---
 
-<img class="ui large rounded image" src="../images/tictactoe.png">
+<img class="ui large rounded image" src="../images/visual.jpg">
 
 This tic-tac-toe game was something I designed to fulfill my senior project and to learn more about programming in general. I wanted to make a simple game from what I learned about programming and I ended up with tic-tac-toe.
 
@@ -19,3 +19,4 @@ This tic-tac-toe game was implemented using [Microsoft Visual Studio 2010](https
 
 In this project I gained experience with using Microsoft Visual Studio as well as learning about the language C#. i know some things about it now and I look to hopefully learn more about it in the future. I also learned what it was like to make my own game. I know most games would take way longer to develop but I am glad that I at least got a small snippet as to what it was like. 
  
+<img class="ui large rounded image" src="../images/tictactoe.png">
