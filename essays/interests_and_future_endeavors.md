@@ -15,8 +15,8 @@ labels:
 
 My interests in software engineering are game development and artificial intelligence. Ever since I was a kid, I always had an interest in games, particularly sports games. I always thought that I would be interested in being able to make those kinds of games. That is what led to me to Computer Science and software engineering. I want to be someone who makes games that others can play and have fun in doing so. That is one of the main reasons I became a Computer Science major. I am also interested in artificial intelligence. I find it interesting how robots can be programmed to act somewhat similar to humans and are able to respond on their own. I did a research paper about artificial intelligence in one of my previous classes and found it to be extremely interesting so that is something that catches my eye as well.
 
-<img class="ui medium left image" src="../images/game.jpg">
-<img class="ui medium right image" src="../images/ai.jpg">
+<img class="ui medium left floated image" src="../images/game.jpg">
+<img class="ui medium right floated image" src="../images/ai.jpg">
 
 ## Future Endeavors
 
