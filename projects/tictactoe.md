@@ -11,7 +11,7 @@ labels:
 summary: A Tic-Tac-Toe game that I developed for my senior project in high school.
 ---
 
-<img class="ui medium floated rounded image" src="../images/tictactoe.png">
+<img class="ui large rounded image" src="../images/tictactoe.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
