@@ -2,18 +2,16 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015-12-15
+title: Tic-Tac-Toe
+permalink: projects/tictactoe
+date: 2019-01-26
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C#
+  - Visual Studio
+summary: A Tic-Tac-Toe game that I developed for my senior project in high school.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium floated rounded image" src="../images/tictactoe.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
