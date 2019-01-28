@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The importantance of smart questions
+title: The importance of smart questions
 date: 2019-01-22
 labels:
   - Software Engineering
