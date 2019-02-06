@@ -10,10 +10,11 @@ labels:
   - IntelliJ
 ---
 
-<img class="ui medium circular floated image" src="../images/question.jpg">
+<img class="ui medium left circular image" src="../images/coding_standards.jpg">
+<img class="ui medium right circular image" src="../images/check.png">
 
 ## The Backbone of Programming
 
-<img class="ui medium right circular floated image" src="../images/question.jpg">
-<img class="ui medium right circular floated image" src="../images/question.jpg">
-<img class="ui medium right circular floated image" src="../images/question.jpg">
+
+<img class="ui medium right circular floated image" src="../images/intellij.png">
+<img class="ui medium right circular floated image" src="../images/eslint.jpg">
