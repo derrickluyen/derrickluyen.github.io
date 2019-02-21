@@ -19,4 +19,4 @@ Semantic UI is a UI framework that is quite difficult to use. So far, I have bee
 
 ## Personal Reflection
 
-Like I mentioned earlier, I have worked with Semantic UI for about a week now at the time of writing this paper. I can definitely say that it was difficult but interesting at the same time. Personally, I like challenging things as it propels me to learn about new things and gain new knowledge that I did not have before. Semantic UI is a perfect example of that. 
+Like I mentioned earlier, I have worked with Semantic UI for about a week now at the time of writing this paper. I can definitely say that it was difficult but interesting at the same time. Personally, I like challenging things as it propels me to learn about new things and gain new knowledge that I did not have before. Semantic UI is a perfect example of that. UI Frameworks in general would be a good example for that. It is definitely challenging to learn but once you do learn it, it makes your life a lot easier as a programmer because there are many useful tools in UI Frameworks that you can apply when making a good UI. 
