@@ -10,7 +10,7 @@ labels:
 ---
 
 <img class="ui medium circular floated image" src="../images/patterns.png">
-<img class="ui medium circular floated image" src="../images/medicine.jpg">
+<img class="ui small circular floated image" src="../images/medicine.jpg">
 
 ## Design Patterns in life
 
