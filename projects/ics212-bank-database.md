@@ -9,7 +9,7 @@ labels:
   - ICS 212
   - Bank Database
   - C
-summary: I coded a simple bank database in C in my ICS 212: Program Structure class.
+summary: I coded a simple bank database in C in my ICS 212, Program Structure, class.
 ---
 
 <img class="ui small left floated image" src="../images/shell.jpg">
