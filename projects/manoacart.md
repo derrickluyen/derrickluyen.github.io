@@ -20,5 +20,5 @@ For this project, the main parts that I worked on were the ratings page and the 
 
 Overall, from this experience, what I gained was the knowledge of how to code a working web application. It was definitely challenging at first when I was trying to figure everything out, but over time, I got used to it and had fun as well. I also learned how to work together as a team for a somewhat bigger scale project. The code itself had a lot of lines so we had to be able to divide everythin up evenly to the best of our abilities and I think we did a good job with that and with the application itself as well. 
 
-<img class="ui large floated image" src="../images/manoacart-m3-ratings.JPG">
-<img class="ui large floated image" src="../images/manoacart-m3-report-user.JPG">
+<img class="ui floated image" src="../images/manoacart-m3-ratings.JPG">
+<img class="ui floated image" src="../images/manoacart-m3-report-user.JPG">
