@@ -6,6 +6,7 @@ title: ManoaCart
 permalink: projects/manoacart
 date: 2019-05-07
 labels:
+  - ICS 314
   - Javascript
   - React
   - Meteor
@@ -16,5 +17,5 @@ summary: A web application that lets UH Manoa students buy and sell items, simil
 
 <div>
   <img class="ui left large rounded image" src="../images/manoacart-m3-ratings.JPG">
-  <img class="ui right large rounded image" src="../images/manoacart-m3-reportuser.JPG">
+  <img class="ui right large rounded image" src="../images/manoacart-m3-report-user.JPG">
 <div/>
