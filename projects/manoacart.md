@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ttt.png
+image: images/manoacart.JPG
 title: ManoaCart
 permalink: projects/manoacart
 date: 2019-05-07
@@ -14,4 +14,7 @@ summary: A web application that lets UH Manoa students buy and sell items, simil
 
 <img class="ui large rounded image" src="../images/visual.jpg">
 
-<img class="ui large rounded image" src="../images/tictactoe.png">
+<div>
+  <img class="ui left large rounded image" src="../images/manoacart-m3-ratings.JPG">
+  <img class="ui right large rounded image" src="../images/manoacart-m3-reportuser.JPG">
+<div/>
