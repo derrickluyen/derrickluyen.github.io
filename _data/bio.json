@@ -64,6 +64,15 @@
         "Java",
         "Javascript"
       ]
+    },
+    {
+      "name": "Libraries & Frameworks",
+      "level": "",
+      "keywords": [
+        "Meteor",
+        "Semantic UI",
+        "React"
+      ]
     }
   ],
   "education": [
