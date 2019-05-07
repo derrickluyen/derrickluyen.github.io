@@ -10,6 +10,7 @@ labels:
   - React
   - Meteor
 summary: A web application that lets UH Manoa students buy and sell items, similar to Craigslist, that was designed in ICS 314, Software Engineering 1.
+---
 
 <img class="ui large rounded image" src="../images/visual.jpg">
 
