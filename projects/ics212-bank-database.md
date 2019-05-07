@@ -12,7 +12,7 @@ labels:
 summary: I coded a simple bank database in C in my ICS 212, Program Structure, class.
 ---
 
-<img class="ui left floated image" src="../images/shell.jpg">
+<img class="ui medium left floated image" src="../images/shell.jpg">
 In my ICS 212 class, which was about Program Structure, I programmed a simple bank database. It displays a menu that asks the user for input. They could do one of the following: add a new record, print a record, print all records, delete a record, reverse the list of records, or quit the program. The reverse the list option was just an addition feature that was added into the program to add a small twist to it. 
 
 In this project, it was a solo activity so I did all the coding myself. First of all, I wrote a bunch of pseudocode to help me plan this project out. Even though it was just a small bank database, the code itself was still a big chunk. I had to write pseudocode to plan out everything and make sure that I accounted for all cases. After that, I just translated that into code and while there were a few kinks at first, it all worked out in the end. 
