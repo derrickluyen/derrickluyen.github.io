@@ -133,6 +133,91 @@
   "activities": [
     {
       "organization": "",
+      "position": "Dragon Hunter",
+      "summary": "create an augmented reality game using C#, Unity, XCode where you shoot dragons to win for ICS 486: Virtual and Augmented Reality Programming",
+      "highlights": [
+        "focused on collision detection, projectile firing via fire button (user touch input), bug fixes, background sounds, and overall UI",
+        "distributed tasks throughout team"
+      ]
+    },
+    {
+      "organization": "",
+      "position": "Demographics of Hawaii",
+      "summary": "create an data visualization web app about demographics in Hawai'i using JavaScript, Plotly, D3 for ICS 484: Data Visualization",
+      "highlights": [
+        "planned out layout for site",
+        "worked on age and sex visualization page",
+        "created process page"
+      ]
+    },
+    {
+      "organization": "",
+      "position": "Image-Processing App",
+      "summary": "create an image processing application using Java, JavaFX to filter images for ICS 432: Concurrent Programming",
+      "highlights": [
+        "added in timing, cancel button, progress bar, stats window, multithreading jobs, producer-consumer, task & data parallelism",
+        "started using base code given by professor, all members worked on every assignment in their own branches",
+        "team size originally 3 but shrank to 3 mid-semester"
+      ]
+    },
+    {
+      "organization": "",
+      "position": "VR Gallery",
+      "summary": "create an gallery of photogrammetry-made objects using Unity, Regard3D, Blender, C# for ICS 486: Virtual and Augmented Reality Programming",
+      "highlights": [
+        "made photogrammetry of a vacuum, tissue box, and kendama using above tools",
+        "worked on layout of gallery and other necessary tasks"
+      ]
+    },
+    {
+      "organization": "",
+      "position": "Flick Critik",
+      "summary": "create an movie rating web app using JavaScript, Meteor, React for ICS 427: Software Quality Assurance",
+      "highlights": [
+        "follow procedure of Secure Development Lifecycle (SDL) throughout making of web app",
+        "lead team in writing weekly reports and distributed tasks for everyone to do",
+        "main focuses: reviews page, ratings page"
+      ]
+    },
+    {
+      "organization": "",
+      "position": "Event Planner",
+      "summary": "create an event planner using JavaScript, HTML, CSS for ICS 414: Software Engineering II",
+      "highlights": [
+        "allows users to create events and generate .ics files based on their input",
+        "lead team and distributed tasks for everyone to do",
+        "main focuses: regex, user input, repetition of events"
+      ]
+    },
+    {
+      "organization": "",
+      "position": "ManoaCart",
+      "summary": "create a buy/sell web app and deploy it using JavaScript, Meteor, React for ICS 314: Software Engineering I",
+      "highlights": [
+        "flea market website for UH Manoa students to use to buy and sell materials",
+        "mainly work on report user page and ratings page"
+      ]
+    },
+    {
+      "organization": "",
+      "position": "Bank Database",
+      "summary": "create a simple bank database (no GUI) using C and SSH Secure Shell for ICS 212: Program Structure",
+      "highlights": [
+        "create menu for user input",
+        "add new record, print a record, print all records, delete record, reverse list of records, quit program"
+      ]
+    },
+    {
+      "organization": "",
+      "position": "Tic-Tac-Toe",
+      "summary": "create a Tic-Tac-Toe game using C# and Visual Studio for Senior Project",
+      "highlights": [
+        "design the UI of the game",
+        "create simple AI to compete against user"
+      ]
+    },
+    {
+      "organization": "",
       "position": "McKinley High LEO Club",
       "summary": "arrange for volunteering events & volunteer for various events such as monthly beach clean ups, marathons, and festivals",
       "highlights": [
