@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/planner.png
-title: Event Planner
-permalink: projects/event-planner
+image: images/planner.jpg
+title: Flick Critik
+permalink: projects/flick-critik
 date: 2020-06-30
 labels:
   - ICS 427
