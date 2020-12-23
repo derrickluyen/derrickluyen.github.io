@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "programming",
+      "name": "Programming",
       "keywords": [
         "C",
         "Java",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
         "web apps",
         "GUI",
@@ -54,7 +54,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -64,6 +66,18 @@
         "Meteor",
         "Semantic UI",
         "React"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Windows",
+        "IntelliJ IDEA",
+        "Unity",
+        "Git / GitHub / GitHub Desktop",
+        "VSCode"
       ]
     }
   ],
@@ -96,7 +110,7 @@
       "website": "https://www.hawaii.edu/its/",
       "startDate": "2019-09-16",
       "endDate": "2020-09",
-      "summary": "help out in UH Manoa Computer Labs and ITS Help Desk",
+      "summary": "UH Manoa Computer Labs and ITS Help Desk Student Assistant",
       "highlights": [
         "Answer questions about ITS services and supported software from walk-in customers and assist students / faculty with tech-related problems",
         "Troubleshoot customer problems using ITS supported utilities",
@@ -134,9 +148,9 @@
     {
       "organization": "",
       "position": "McKinley High LEO Club",
-      "summary": "arrange for volunteering events & volunteer for various events such as monthly beach clean ups, marathons, and festivals",
+      "summary": "Arrange for volunteering events & volunteer for various events such as monthly beach clean ups, marathons, and festivals",
       "highlights": [
-        "served under District 50 Lions Club",
+        "Served under District 50 Lions Club",
         "Member: 2014-2017",
         "President: 2016-2017"
       ]
