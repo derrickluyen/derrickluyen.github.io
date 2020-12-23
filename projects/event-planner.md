@@ -30,10 +30,5 @@ ourselves better as we know how the code works so we can in turn understand the 
 
 You can find the repository for our project [here](https://github.com/pickled-beans/pickled-beans).
 
-Here is a video of us going through the calendar program and showing off all the features:
-
-<video width="500" height="250" controls>
-  <source src="ICS414video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+[Here](https://github.com/derrickluyen/derrickluyen.github.io/blob/master/images/ICS414video.mp4) is a video of us going through the calendar program and showing off all the features. You will need to download the video in order to watch it.
 
