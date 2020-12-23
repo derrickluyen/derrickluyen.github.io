@@ -4,7 +4,7 @@ type: project
 image: images/ttt.png
 title: Tic-Tac-Toe
 permalink: projects/tictactoe
-date: 2019-01-26
+date: 2017-05-26
 labels:
   - C#
   - Visual Studio
