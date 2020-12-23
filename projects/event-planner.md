@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/manoacart.JPG
+image: images/planner.png
 title: Event Planner
 permalink: projects/event-planner
 date: 2020-05-11
@@ -30,4 +30,4 @@ used in everyday life so by coding our own version of it, our team was able to l
 essentially reverse engineering the event generator in order to get a better understanding of how it all works. That way, it makes the user experience for 
 ourselves better as we know how the code works so we can in turn understand the usability of the event planner. 
 
-<img class="ui floated image" src="../images/manoacart-m3-ratings.JPG">
+<img class="ui floated image" src="../images/eventPlanner.png">
