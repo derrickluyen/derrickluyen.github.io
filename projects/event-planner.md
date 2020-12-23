@@ -22,10 +22,10 @@ information. The repitition of events were also made so that users can have repe
 repeat.
 
 Here is a video of us going through the calendar program and showing off all the features:
-<video width="500" height="250" controls>
-  <source src="../images/ICS414Video.mp4" type="video/mp4">
-Your browser does not support the video tag.
 
+<video width="500" height="250" controls>
+  <source src="../images/ICS414video.mp4" type="video/mp4">
+Your browser does not support the video tag.
 </video>
 
 Overall, from this experience, what I gained was the knowledge of making an event planner. It is a useful thing to know as event planners are something that is 
