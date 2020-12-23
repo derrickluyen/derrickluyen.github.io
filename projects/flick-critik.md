@@ -10,22 +10,24 @@ labels:
   - Javascript
   - Meteor
   - React
-summary: A local web app that allows users to create events and generate .ics files based on their input, that was designed in ICS 414, Software Engineering II.
+summary: A local web app that allows users to rate and review movies, that was designed in ICS 427, Software Quality Assurance.
 ---
 
-In my ICS 414 class, I was part of Team Pickled Beans and together, we made a local web application that was an event planner. It allows users to create events and generate .ics files that users can open with their calendar. With these events that are created, users have many different fields that they can input into. We allows user the simple basic features such as the summary field, description field, location field, start & end date & time, and allowing you to save the event & download it as an .ics file. Other features that we have in our event planner is geographic location, priority of event, repitition of events, classification, and adding in your email. All of these features combine to form Team Pickled Beans's iCal Event Generator.
+In my ICS 427 class, I was part of Team Splendor and we made a movie rating and reviewing local web app called Flick Critik. This web app allows users to rate 
+and review movies that are in our database. We had the home page, an account system for signing up / in / out, seperate pages for each movie as well as a page that contained the list of movies, and the ratings & reviews page. This project was also designed with the Secure Development Lifecycle (SDL) in mind. Every week, we would write weekly reports and continue to follow the SDL to ensure that our project was secure. We were able to ensure that our project was secure by following
+all of the parts of the SDL such as dynamic analysis, static analysis, etc... 
 
-For this project, the main parts that I worked on were the user input aspects, regex, and repitition of events. For the user input aspects, I worked on most of 
-the fields that users had to input in such as the description, summary, location, and resources needed. Those are relatively simple as we just have text areas 
-for users to type in. I also worked on the regex sections where we filtered out things that users could and could not enter to make sure they only enter valid 
-information. The repitition of events were also made so that users can have repetitive events and they can also decide how much times they want the event to 
-repeat.
+For this project, the main parts that I worked on were the ratings and reviews page. I had done this before in a previous project so the code was a little similar. However, the usage of that code was a bit different from this one so I had to transition that old code into a newer version. Within these pages, it gave users an 
+option to rate the movies on a scale of 1-5 and review the movies by leaving comments as to what their thoughts on the movies were. These comments would then show 
+up for other users to see so they can get a sense of what the movie was like.
 
-Overall, from this experience, what I gained was the knowledge of making an event planner. It is a useful thing to know as event planners are something that is 
-used in everyday life so by coding our own version of it, our team was able to learn how to create and use the features that we were able to create. We are 
-essentially reverse engineering the event generator in order to get a better understanding of how it all works. That way, it makes the user experience for 
-ourselves better as we know how the code works so we can in turn understand the usability of the event planner. 
+Overall, from this experience, what I learned was not necessarily how to code the program as it was something similar to what I had previously done (although it 
+did help refresh my memory of the concepts), but how to go through the Secure Development Lifecycle and enact it throughout the coding process. By following the 
+Secure Development Lifecycle, we were able to secure our program through the various methods and we got a sense as to what cybersecurity computer scientists have 
+to do in order to secure their programs. Although this is just scratching the surface, I still feel like we got a good grasp on the world of cybersecurity and how it works in the coding process.
 
-You can find the repository for our project [here](https://github.com/pickled-beans/pickled-beans).
+You can find the repository for our project [here](https://github.com/team-splendor/flick-critik).
+
+[Here](https://github.com/team-splendor/flick-critik/blob/master/ICS%20427%20Flick%20Critik%20Report.pdf) is the link to our reports that followed the Secure Development Lifecycle. We explain in depth what we did throughout the project in each week and how we tested everything along the way in order to ensure the security of our program.
 
 <img class="ui floated image" src="../images/eventPlanner.png">
