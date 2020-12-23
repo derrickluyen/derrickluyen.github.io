@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/movierating.jpeg
+image: images/movie-rating.jpeg
 title: Flick Critik
 permalink: projects/flick-critik
 date: 2020-06-30
