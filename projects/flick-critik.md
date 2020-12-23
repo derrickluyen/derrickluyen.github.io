@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/planner.jpg
+image: images/movierating.jpeg
 title: Flick Critik
 permalink: projects/flick-critik
 date: 2020-06-30
@@ -29,5 +29,3 @@ to do in order to secure their programs. Although this is just scratching the su
 You can find the repository for our project [here](https://github.com/team-splendor/flick-critik).
 
 [Here](https://github.com/team-splendor/flick-critik/blob/master/ICS%20427%20Flick%20Critik%20Report.pdf) is the link to our reports that followed the Secure Development Lifecycle. We explain in depth what we did throughout the project in each week and how we tested everything along the way in order to ensure the security of our program.
-
-<img class="ui floated image" src="../images/eventPlanner.png">
