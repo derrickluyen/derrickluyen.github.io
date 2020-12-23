@@ -21,6 +21,12 @@ for users to type in. I also worked on the regex sections where we filtered out 
 information. The repitition of events were also made so that users can have repetitive events and they can also decide how much times they want the event to 
 repeat.
 
+Here is a video of us going through the calendar program and showing off all the features:
+<video width="500" height="250" controls>
+  <source src="../images/ICS414Video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 Overall, from this experience, what I gained was the knowledge of making an event planner. It is a useful thing to know as event planners are something that is 
 used in everyday life so by coding our own version of it, our team was able to learn how to create and use the features that we were able to create. We are 
 essentially reverse engineering the event generator in order to get a better understanding of how it all works. That way, it makes the user experience for 
