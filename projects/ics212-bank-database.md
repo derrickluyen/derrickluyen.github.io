@@ -4,7 +4,7 @@ type: project
 image: images/bank.png
 title: Bank Database
 permalink: projects/bankDB
-date: 2019-05-07
+date: 2018-12-07
 labels:
   - ICS 212
   - Bank Database
