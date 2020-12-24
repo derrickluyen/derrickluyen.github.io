@@ -13,8 +13,7 @@ labels:
   - Unity
   - Regard3D
   - Blender
-summary: A virtual reality gallery of 10 3D objects, created through photogrammetry, for use in the Oculus, that was designed in ICS 486, 
-Virtual and Augmented Reality Programming.
+summary: A virtual reality gallery of 10 3D objects, created through photogrammetry, for use in the Oculus, that was designed in ICS 486, Virtual and Augmented Reality Programming.
 ---
 
 In my ICS 486 class, I was part of Team 1 and together, we created a gallery in virtual reality using the Oculus as our development platform. In order to create 
