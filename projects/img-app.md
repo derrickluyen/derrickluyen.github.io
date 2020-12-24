@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/oculus.jpeg
-title: VR Gallery
+image: images/img-app.png
+title: Image Processing App
 permalink: projects/img-app
 date: 2020-12-08
 labels:
