@@ -37,6 +37,6 @@ field of computer science I plan to pursue, so overall it was a good experience 
 
 All work related to this project has not been uploaded to GitHub due to size limits but I have the original Unity Project saved if needed.
 
-[Here](https://github.com/derrickluyen/derrickluyen.github.io/blob/master/images/ICS414video.mp4) is a video of us going through the gallery and showing 
+[Here](https://github.com/derrickluyen/derrickluyen.github.io/blob/master/images/Team1_Oculus.mp4) is a video of us going through the gallery and showing 
 the objects we have created through photogrammetry. You will need to download the video in order to watch it.
 
