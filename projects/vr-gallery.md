@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/planner.png
+image: images/oculus.jpeg
 title: VR Gallery
 permalink: projects/vr-gallery
 date: 2020-10-07
