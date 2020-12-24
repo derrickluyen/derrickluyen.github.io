@@ -12,8 +12,7 @@ labels:
   - Data Parallelism
   - TravisCI
   - CodeCov
-summary: A image processing app, used to filter images and also implementing various features, that was designed based off on base code given by Professor 
-Henri Casanova, in ICS 432: Concurrent Programming.
+summary: An image processing app, used to filter images and also implementing various features, that was designed based off on base code given by Professor Henri Casanova, in ICS 432: Concurrent Programming.
 ---
 
 In my ICS 432 class, I was part of Team 11 and together, we added new features, fixed bugs, and enhanced certain features in an existing base image processing app. 
