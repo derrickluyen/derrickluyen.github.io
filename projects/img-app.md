@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/img-app.png
+image: images/filter.jpg
 title: Image Processing App
 permalink: projects/img-app
 date: 2020-12-08
@@ -36,4 +36,4 @@ and from there, you slowly build your knowledge up. The class and the project ov
 All work related to this project is located here at [this repository](https://github.com/gumsanaung/ics432imgapp). However, the repository is private as per the 
 instruction of the professor so you would like to request to see it, please email me at derrickluyen1@gmail.com.
 
-
+img-app.png
