@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/filter.jpg
+image: images/planner.png
 title: Image Processing App
 permalink: projects/img-app
 date: 2020-12-08
