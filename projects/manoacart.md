@@ -6,7 +6,6 @@ title: ManoaCart
 permalink: projects/manoacart
 date: 2019-05-07
 labels:
-  - ICS 314
   - Javascript
   - React
   - Meteor
