@@ -8,6 +8,7 @@ date: 2018-12-07
 labels:
   - Bank Database
   - C
+  - SSH Secure Shell
 summary: I coded a simple bank database in C in my ICS 212 Program Structure class.
 ---
 
