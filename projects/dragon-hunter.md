@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/dragon_hunter.PNG
+image: images/dragon_hunt.PNG
 title: Dragon Hunter
 permalink: projects/dragon-hunter
 date: 2020-12-15
