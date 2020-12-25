@@ -6,7 +6,6 @@ title: Flick Critik
 permalink: projects/flick-critik
 date: 2020-06-30
 labels:
-  - ICS 427
   - Javascript
   - Meteor
   - React
