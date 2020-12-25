@@ -6,7 +6,6 @@ title: VR Gallery
 permalink: projects/vr-gallery
 date: 2020-10-07
 labels:
-  - ICS 486
   - C#
   - VR
   - Oculus
