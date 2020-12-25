@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/planner.png
+image: images/hawaii.png
 title: Demographics of Hawai'i
 permalink: projects/demographics_of_hawaii
 date: 2020-12-09
