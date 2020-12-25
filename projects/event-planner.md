@@ -6,7 +6,6 @@ title: Event Planner
 permalink: projects/event-planner
 date: 2020-05-11
 labels:
-  - ICS 414
   - Javascript
   - HTML
   - CSS
