@@ -1,15 +1,17 @@
 ---
 layout: project
 type: project
-image: images/planner.png
-title: Event Planner
+image: images/filter.jpg
+title: Image Processing App
 permalink: projects/imgapp
-date: 2020-05-11
+date: 2020-12-08
 labels:
-  - ICS 414
-  - Javascript
-  - HTML
-  - CSS
+  - Java
+  - JavaFX
+  - Multithreading
+  - Data Parallelism
+  - TravisCI
+  - CodeCov
 summary: A local web app that allows users to create events and generate .ics files based on their input, that was designed in ICS 414, Software Engineering II.
 ---
 
