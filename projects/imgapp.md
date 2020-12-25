@@ -12,7 +12,7 @@ labels:
   - Data Parallelism
   - TravisCI
   - CodeCov
-summary: An image processing app for filtering images, implemented in ICS 432: Concurrent Programming.
+summary: An image processing app for filtering images, implemented in ICS 432- Concurrent Programming.
 ---
 
 In my ICS 432 class, I was part of Team 11 and together, we added new features, fixed bugs, and enhanced certain features in an existing base image processing app. 
